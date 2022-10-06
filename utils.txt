@@ -2,7 +2,4 @@ https://replit.com/@KarelMarrero/day-1-printing-start#main.py
 https://app.codingrooms.com/w/4eglWDMn6LwH
 
 
-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/17965128#overview
-
-
-Test pushing from colaborator
+Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/17965132#overview
