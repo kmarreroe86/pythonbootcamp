@@ -36,3 +36,7 @@ print(p)
 # Division
 # Addition
 # Subtraction
+
+kaka = None;
+if kaka == "kaka":
+    print("kaka")
