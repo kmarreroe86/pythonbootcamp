@@ -1,8 +1,6 @@
-https://replit.com/@KarelMarrero/day-1-printing-start#main.py
-https://app.codingrooms.com/w/4eglWDMn6LwH
+Python docs: https://docs.python.org/3/tutorial/datastructures.html
 
-
-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/18025599#overview
+Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/18085723#overview
 
 
 Day 3
@@ -10,3 +8,6 @@ Day 3
 
 Day 4
 -Randomization and Python lists
+
+Day 5
+-
