@@ -1,6 +1,6 @@
 Python docs: https://docs.python.org/3/tutorial/datastructures.html
 
-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/18085723#overview
+Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/18085735#overview
 
 
 Day 3
@@ -10,4 +10,4 @@ Day 4
 -Randomization and Python lists
 
 Day 5
--
+-For loops with lists
