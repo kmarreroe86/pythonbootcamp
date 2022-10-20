@@ -1,6 +1,6 @@
 Python docs: https://docs.python.org/3/tutorial/datastructures.html
 
-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/19140890#overview
+Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/19140980#overview
 
 
 Day 3
