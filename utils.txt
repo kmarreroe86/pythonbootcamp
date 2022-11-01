@@ -20,3 +20,6 @@ Hangman(while loops, import modules)
 
 Day 8
 -Functions with inputs
+
+Day 9
+-Dictionaries and Nesting
