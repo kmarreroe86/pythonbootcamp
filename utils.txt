@@ -1,6 +1,6 @@
 Python docs: https://docs.python.org/3/tutorial/datastructures.html
 
-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/19279420#overview
+Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/19658806#overview
 
 
 Day 3
@@ -23,3 +23,6 @@ Day 8
 
 Day 9
 -Dictionaries and Nesting
+
+Day 10
+-Functions with outputs
