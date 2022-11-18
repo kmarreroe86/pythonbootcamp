@@ -1,6 +1,6 @@
 Python docs: https://docs.python.org/3/tutorial/datastructures.html
 
-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/19846328#overview
+Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/19911792#overview
 
 
 Day 3
@@ -32,3 +32,12 @@ Day 11
 
 Day 12
 -Scope & Number Guessing Game
+
+Day 13
+-Debugging
+
+Day 14
+-Higher Lower Game
+
+Day 15
+-Environment setup. Coffee machine project
