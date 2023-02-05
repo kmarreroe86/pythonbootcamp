@@ -1,6 +1,12 @@
-Python docs: https://docs.python.org/3/tutorial/datastructures.html
+-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/19940334#overview
 
-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/19911792#overview
+-Python docs: https://docs.python.org/3/tutorial/datastructures.html
+
+-Turtle documentation:
+https://docs.python.org/3/library/turtle.html
+
+-Install packages using pip3:
+pip3 install prettytable
 
 
 Day 3
@@ -41,3 +47,6 @@ Day 14
 
 Day 15
 -Environment setup. Coffee machine project
+
+Day 16
+-OOP
