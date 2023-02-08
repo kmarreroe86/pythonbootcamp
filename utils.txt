@@ -50,3 +50,6 @@ Day 15
 
 Day 16
 -OOP
+
+Day 17
+-Classes. OOP Exercise
