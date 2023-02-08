@@ -1,4 +1,4 @@
--Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/19940334#overview
+-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/20236706#overview
 
 -Python docs: https://docs.python.org/3/tutorial/datastructures.html
 
@@ -53,3 +53,6 @@ Day 16
 
 Day 17
 -Classes. OOP Exercise
+
+Day 18
+-Turtle and Graphic User Interface
