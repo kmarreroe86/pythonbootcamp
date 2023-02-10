@@ -41,5 +41,9 @@ for _ in range(200):
     timmy.forward(50)
     timmy.setheading(random.choice(directions))
 
+
+# Spirograph
+
+
 my_screen = Screen()
 my_screen.exitonclick()
