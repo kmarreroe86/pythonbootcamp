@@ -32,18 +32,28 @@ colors = ["Green", "Black", "IndianRed", "DarkOrchid", "SlateGray", "Blue", "Cor
 
 
 # Random walk
-directions = [0, 90, 180, 270]
-timmy.pensize(15)
-timmy.speed("fast")
+# directions = [0, 90, 180, 270]
+# timmy.pensize(15)
+# timmy.speed("fast")
 
-for _ in range(200):
-    timmy.color(random.choice(colors))
-    timmy.forward(50)
-    timmy.setheading(random.choice(directions))
+# for _ in range(200):
+#     timmy.color(random.choice(colors))
+#     timmy.forward(50)
+#     timmy.setheading(random.choice(directions))
 
 
 # Spirograph
+def random_Color():
+    r = random.randint(0, 255)
+    g = random.randint(0, 255)
+    b = random.randint(0, 255)
+    color = (r, g, b)
+    return color
 
+
+timmy.speed("fast")
+timmy.color(random_Color())
+timmy.circle(100)
 
 my_screen = Screen()
 my_screen.exitonclick()
