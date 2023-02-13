@@ -5,6 +5,8 @@ timmy = Turtle()
 timmy.shape("turtle")
 timmy.color("blue")
 
+my_screen = Screen()
+
 # Square
 # for _ in range(4):
 #     timmy.forward(100)
@@ -50,10 +52,15 @@ def random_Color():
     color = (r, g, b)
     return color
 
+def draw_spirograph(size_of_graph):
+    timmy.shape("arrow")
+    timmy.speed("fastest")
+    my_screen.colormode(255)
+    for _ in range(int(360 / size_of_graph)):
+        timmy.color(random_Color())
+        timmy.circle(100)
+        timmy.setheading(timmy.heading() + 10)
 
-timmy.speed("fast")
-timmy.color(random_Color())
-timmy.circle(100)
+draw_spirograph(10)
 
-my_screen = Screen()
 my_screen.exitonclick()
