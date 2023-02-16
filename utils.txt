@@ -1,4 +1,4 @@
--Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/20356939#learning-tools
+-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/20361125#learning-tools
 
 -Python docs: https://docs.python.org/3/tutorial/datastructures.html
 
@@ -60,5 +60,8 @@ Day 18
 Day 19
 -Instances, Events, State and Higher Order functions
 
-Day 20
+Day 20-21
 -Snake Game 1
+
+Day 22
+-Arcade Game
