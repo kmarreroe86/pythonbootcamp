@@ -1,4 +1,4 @@
--Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/20343809#overview
+-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/20537660#overview
 
 -Python docs: https://docs.python.org/3/tutorial/datastructures.html
 
@@ -61,10 +61,13 @@ Day 19
 -Instances, Events, State and Higher Order functions
 
 Day 20-21
--Snake Game 1
+-Snake Game
 
 Day 22
 -Arcade Game(Pong)
 
 Day 23
 -Turtle crossing street game
+
+Day 24
+-Files, directories and paths
