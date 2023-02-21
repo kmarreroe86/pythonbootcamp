@@ -1,8 +1,11 @@
--Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/20537660#overview
+-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/20741520#learning-tools
 
 -Python docs: https://docs.python.org/3/tutorial/datastructures.html
 
 -Turtle documentation: https://docs.python.org/3/library/turtle.html
+
+-Pandas: https://pandas.pydata.org/docs/reference/index.html
+         https://pandas.pydata.org/docs/
 
 -Install packages using pip3:
 pip3 install prettytable
@@ -71,3 +74,6 @@ Day 23
 
 Day 24
 -Files, directories and paths
+
+Day 25
+- CSV and Pandas
