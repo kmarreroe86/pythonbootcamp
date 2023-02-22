@@ -36,9 +36,11 @@ data = pandas.read_csv("weather_data.csv")
 # Max
 # print(data["temp"].max())
 
+
 # Data in columns
 # print(f"data.condition: {data.condition}")
 # print(f"data['condition']: {data['condition']}")
+
 
 # Get data in a row
 # print(data[data.day == "Monday"])
@@ -47,21 +49,37 @@ data = pandas.read_csv("weather_data.csv")
 # monday_temp = int(monday.temp) * 9/5 + 32
 # print(monday_temp)
 
+
 #  Get row with the max temp
 # print(data[data.temp == data.temp.max()])
 
+
 # Creating a dataframe
-data_dict = {
-    "students": ["Amy", "James", "Jane"],
-    "scores": [76, 85, 65]
+# data_dict = {
+#     "students": ["Amy", "James", "Jane"],
+#     "scores": [76, 85, 65]
+# }
+# data = pandas.DataFrame(data_dict)
+# data.to_csv("new_dataframe.csv")
+
+
+# Iterate over dataframe
+student_dict = {
+    "student": ["Jane", "James", "Lily"],
+    "score": [56, 76, 98]
 }
-data = pandas.DataFrame(data_dict)
-data.to_csv("new_dataframe.csv")
+student_data_frame = pandas.DataFrame(student_dict)
+print(student_data_frame)
 
+# for (key, value) in student_data_frame.items():
+    # print(key)
+    # print(value)
 
-
-
-
+# Loop through rows of data frame
+print("== Loop through rows of data frame ==")
+for (index, row) in student_data_frame.iterrows():
+    # print(row)
+    print(row.student)
 
 
 

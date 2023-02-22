@@ -1,4 +1,4 @@
--Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/20741520#learning-tools
+-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/20781124#questions
 
 -Python docs: https://docs.python.org/3/tutorial/datastructures.html
 
@@ -77,3 +77,9 @@ Day 24
 
 Day 25
 - CSV and Pandas
+
+Day 26
+-List comprehension. NATO alphabet
+
+Day 27
+-*args, **kargs
