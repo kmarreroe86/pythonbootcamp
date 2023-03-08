@@ -1,0 +1,10 @@
+pip install psycopg2 => Install support for postgres
+pip install psycopg2-binary
+
+Run Postgres:(context rancher-desktop)
+docker run -d --name postgres-container -e POSTGRES_PASSWORD=password -p 5432:5432 -v postgresdbdata:/var/lib/postgres/data postgres:alpine
+PgAdmin master password: pass123
+
+Create extension for uuid:
+CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+insert into person values (uuid_generate_v4(), 'Jane', 24)
