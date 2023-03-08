@@ -1,4 +1,6 @@
 import pandas as pd
+import os
+import sys
 
 student_dict = {
     "student": ["Angela", "James", "Lily"],
@@ -21,8 +23,11 @@ for (index, row) in student_data_frame.iterrows():
 # Keyword Method with iterrows()
 # {new_key:new_value for (index, row) in df.iterrows()}
 
+print("Working dir:", os.getcwd())
+file_path = os.path.join(sys.path[0], "nato_phonetic_alphabet.csv")
+print(file_path)
 # TODO 1. Create a dictionary in this format: {"A": "Alfa", "B": "Bravo"}
-nato_data = pd.read_csv("nato_phonetic_alphabet.csv")
+nato_data = pd.read_csv(file_path)
 phonetic_dict = {row.letter: row.code for (index, row) in nato_data.iterrows()}
 print(phonetic_dict)
 

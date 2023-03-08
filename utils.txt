@@ -82,4 +82,7 @@ Day 26
 -List comprehension. NATO alphabet
 
 Day 27
--*args, **kargs
+-*args, **kargs, Tkinter app
+
+Day 28
+-Dynamic typing. Pomodoro app
