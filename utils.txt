@@ -1,4 +1,4 @@
--Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/20781124#questions
+-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/20887024#questions
 
 -Python docs: https://docs.python.org/3/tutorial/datastructures.html
 
@@ -8,9 +8,19 @@
          https://pandas.pydata.org/docs/
 
 -Install packages using pip3:
+pip list => list all packages globally installed
 pip3 install prettytable
 pip3 install colorgram.py
 pip install psycopg2 => Install support for postgres
+
+-Create virtual environment:
+virtualenv -p python <name> Ej: virtualenv -p python env
+
+-Activate environment:
+Set path to activate file and hit enter: venv/bin/activate
+
+-Deactivate virtual environment:
+deactivate
 
 
 Day 3
