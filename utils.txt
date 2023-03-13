@@ -23,6 +23,9 @@ Set path to activate file and hit enter: venv/bin/activate
 deactivate
 
 
+-Install packages saved in txt file:
+ pip install -r requirements.txt
+
 Day 3
 -Beginner Controll flow and logical Operators
 
