@@ -1,4 +1,4 @@
--Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/20887024#questions
+-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/20924454#questions
 
 -Python docs: https://docs.python.org/3/tutorial/datastructures.html
 
