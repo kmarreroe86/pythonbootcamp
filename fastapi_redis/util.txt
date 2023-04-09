@@ -1,7 +1,9 @@
 Uvicorn is an ASGI web server implementation for Python.
 
+
 https://www.youtube.com/watch?v=EfMj1TS7Ylw&ab_channel=NelsonCode
 https://www.youtube.com/watch?v=VSQZl43jFzk&ab_channel=NeuralNine
+https://www.youtube.com/watch?v=_eWEmRWhk9A
 
 -Install packages from txt file:
 pip install -r requirements.txt
