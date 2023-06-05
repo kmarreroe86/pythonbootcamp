@@ -20,4 +20,9 @@ class MatchingBraces:
                 else:
                     return False
             
-            return len(stack) == 0
+        return len(stack) == 0
+
+
+matchingBraces = MatchingBraces()
+isValid = matchingBraces.isValid("{{[[]]}}")
+print(f"Is valid: {isValid}")
