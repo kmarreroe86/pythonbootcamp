@@ -1,4 +1,4 @@
--Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/20932388#overview
+-Current: https://thoughtworks.udemy.com/course/100-days-of-code/learn/lecture/20944498#overview
 
 -Python docs: https://docs.python.org/3/tutorial/datastructures.html
 
@@ -103,3 +103,6 @@ Day 28
 
 Day 29
 -Password Manager Tkinter app
+
+Day 30
+-Errors, Exception, JSON data.
